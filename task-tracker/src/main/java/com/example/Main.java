@@ -1,15 +1,11 @@
 package com.example;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.stream.Collectors;
-
+import com.example.AppExceptions.DuplicateTaskExceptions;
 import com.example.Task.task;
 
 public class Main {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	public static void main(String[] args) throws AppExceptions {
 		TaskServices ts=new TaskServices();
 		
 		task[] tasksToAdd= {
@@ -22,14 +18,22 @@ public class Main {
 		for(task t:tasksToAdd) {
 			try {
 				ts.addTask(t);
-			} catch (Exception e) {
-				// TODO: handle exception
-				System.out.println(e.getMessage());
+			} catch (DuplicateTaskExceptions e) {
+				e.printStackTrace();
 			}
 		}
-			System.out.println("All Tasks:");
-			ts.getAllTasks();
-			System.out.println("Pending Tasks:");
-			ts.getPendingTasks();			
+		System.out.println("All Tasks:");
+		ts.getAllTasks();
+		System.out.println("Pending Tasks:");
+		ts.getPendingTasks();
+		ts.updateTask(1, null, null, true);
+		System.out.println();
+		ts.getAllTasks();
+		System.out.println();
+		ts.getPendingTasks();
+		System.out.println();
+		ts.deleteTask(2);
+
+		
 	}
 }
