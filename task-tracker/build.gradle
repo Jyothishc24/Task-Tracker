@@ -23,6 +23,11 @@ publishing {
     publications {
         mavenJava(MavenPublication) {
             from components.java
+
+            // Add these to explicitly identify your artifact
+            groupId = 'com.example'
+            artifactId = 'task-core'   // replace with the name you want the artifact to have
+            version = '1.0.0'
         }
     }
     repositories {
