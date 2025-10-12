@@ -6,6 +6,11 @@ public class Task {
 	private String title;
 	private String description;
 	private boolean completed;
+	
+	public Task() {
+	}
+
+	
 	public Task(int id, String title, String description, boolean completed) {
 		super();
 		this.id = id;
