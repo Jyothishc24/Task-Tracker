@@ -27,11 +27,11 @@
         {
           "name": "task-core-1.0.0.jar",
           "url": "task-core-1.0.0.jar",
-          "size": 5123,
-          "sha512": "d46c8763425d11124c1ba64e5dc5c90bc8aa6599da26336d7d3d168d56a54c1a523e6a6f199fb920143428023a864b795dd655f834e1cd7aec509c27020cfca2",
-          "sha256": "2ddfc5ad69a34b7540bd7e3d17901ea13959689ad457155e4e46341b5980906b",
-          "sha1": "84afdc344f974b9111a9f72896249f57285d772f",
-          "md5": "73e0c4324254a708e006395845ee7e8e"
+          "size": 5142,
+          "sha512": "5010ed5d4bcc030583dd950104b6596eb1a821f2654ccf928cb57cc0a42da1f69de8b775ca85a41efd1cb1a0b36843f23859ecf48a1afa6d6d637e7762ff6058",
+          "sha256": "8444596552ff4d2572e7916bcbdf6263db7c35581f22fa04627c121f25b262f7",
+          "sha1": "db97127e8ce38e9c6f51483dd22be0ac29eb086a",
+          "md5": "9e9b6007fa592e6cdd604d5a3c6b2fe3"
         }
       ]
     },
@@ -48,11 +48,11 @@
         {
           "name": "task-core-1.0.0.jar",
           "url": "task-core-1.0.0.jar",
-          "size": 5123,
-          "sha512": "d46c8763425d11124c1ba64e5dc5c90bc8aa6599da26336d7d3d168d56a54c1a523e6a6f199fb920143428023a864b795dd655f834e1cd7aec509c27020cfca2",
-          "sha256": "2ddfc5ad69a34b7540bd7e3d17901ea13959689ad457155e4e46341b5980906b",
-          "sha1": "84afdc344f974b9111a9f72896249f57285d772f",
-          "md5": "73e0c4324254a708e006395845ee7e8e"
+          "size": 5142,
+          "sha512": "5010ed5d4bcc030583dd950104b6596eb1a821f2654ccf928cb57cc0a42da1f69de8b775ca85a41efd1cb1a0b36843f23859ecf48a1afa6d6d637e7762ff6058",
+          "sha256": "8444596552ff4d2572e7916bcbdf6263db7c35581f22fa04627c121f25b262f7",
+          "sha1": "db97127e8ce38e9c6f51483dd22be0ac29eb086a",
+          "md5": "9e9b6007fa592e6cdd604d5a3c6b2fe3"
         }
       ]
     }
