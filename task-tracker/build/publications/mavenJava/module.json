@@ -2,7 +2,7 @@
   "formatVersion": "1.1",
   "component": {
     "group": "com.example",
-    "module": "task-tracker",
+    "module": "task-core",
     "version": "1.0.0",
     "attributes": {
       "org.gradle.status": "release"
@@ -25,13 +25,13 @@
       },
       "files": [
         {
-          "name": "task-tracker-1.0.0.jar",
-          "url": "task-tracker-1.0.0.jar",
-          "size": 5123,
-          "sha512": "10d8404ebde7cbf12178d4762886fe8d4c1130888b17bac08b46a884303b7af2c88690fcb280e54f5e9c2c3911ad890b56d4a6977d8684e0938c31fce9b50152",
-          "sha256": "22fa9c75e3811d749221477d74781cb8e7affbffaf4c872db68a644a624c3b8a",
-          "sha1": "41b5c5e6c244b6d7c23a8b948cbb595125dc1d6a",
-          "md5": "3313a09eb800ee30f0209a9ea90158fa"
+          "name": "task-core-1.0.0.jar",
+          "url": "task-core-1.0.0.jar",
+          "size": 5142,
+          "sha512": "5010ed5d4bcc030583dd950104b6596eb1a821f2654ccf928cb57cc0a42da1f69de8b775ca85a41efd1cb1a0b36843f23859ecf48a1afa6d6d637e7762ff6058",
+          "sha256": "8444596552ff4d2572e7916bcbdf6263db7c35581f22fa04627c121f25b262f7",
+          "sha1": "db97127e8ce38e9c6f51483dd22be0ac29eb086a",
+          "md5": "9e9b6007fa592e6cdd604d5a3c6b2fe3"
         }
       ]
     },
@@ -46,13 +46,13 @@
       },
       "files": [
         {
-          "name": "task-tracker-1.0.0.jar",
-          "url": "task-tracker-1.0.0.jar",
-          "size": 5123,
-          "sha512": "10d8404ebde7cbf12178d4762886fe8d4c1130888b17bac08b46a884303b7af2c88690fcb280e54f5e9c2c3911ad890b56d4a6977d8684e0938c31fce9b50152",
-          "sha256": "22fa9c75e3811d749221477d74781cb8e7affbffaf4c872db68a644a624c3b8a",
-          "sha1": "41b5c5e6c244b6d7c23a8b948cbb595125dc1d6a",
-          "md5": "3313a09eb800ee30f0209a9ea90158fa"
+          "name": "task-core-1.0.0.jar",
+          "url": "task-core-1.0.0.jar",
+          "size": 5142,
+          "sha512": "5010ed5d4bcc030583dd950104b6596eb1a821f2654ccf928cb57cc0a42da1f69de8b775ca85a41efd1cb1a0b36843f23859ecf48a1afa6d6d637e7762ff6058",
+          "sha256": "8444596552ff4d2572e7916bcbdf6263db7c35581f22fa04627c121f25b262f7",
+          "sha1": "db97127e8ce38e9c6f51483dd22be0ac29eb086a",
+          "md5": "9e9b6007fa592e6cdd604d5a3c6b2fe3"
         }
       ]
     }
